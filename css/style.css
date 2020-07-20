@@ -51,6 +51,10 @@
 	font-size: x-large;
 	color:white;
 }
+.font4{
+	font-size: small;
+	color:red;
+}
 .price1{
 	font-size:20px;
 }
@@ -128,6 +132,11 @@
 .container3{
 	background-color: rgba(0,0,0,.5);
 	height:900px;
+	width:100%;
+}
+.container4{
+	background-color: black;
+	height:30%;
 	width:100%;
 }
 .adjust-right{
